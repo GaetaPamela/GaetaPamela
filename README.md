@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there ,meu nome é Pamela!💜
 
-
-**GaetaPamela/GaetaPamela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-🔭 Estou procurando oportunidades!!
+-🌱 Estudando: HTML, CSS, JavaScript, AWS
+-📫 Contacte-me no gmail: odontologia.pamela@gmail.com
+-😄 Pronomes: Ela/Dela
+-🤓 Estudante Front-end do Vai Na Web
+-🥳 Cursando Analise e Desenvolvimento de Sistemas na Anhanguera (02/2021 - 12/2022)
 
 <div align="center">
   <a href="https://github.com/GaetaPamela">
@@ -24,3 +18,5 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/GaetaPamela/GaetaPamela/blob/output/github-contribution-grid-snake.svg)
   
 github-readme-stats.vercel.app/api?username=[GaetaPamela]
+  
+  
